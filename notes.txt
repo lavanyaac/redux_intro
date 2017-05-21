@@ -10,3 +10,8 @@
 * react-client/components/ItemListContainer
 * react-client/actions/items
 * react-client/store/configureStore
+
+# Run:
+* npm install
+* npm start
+* http://http://127.0.0.1:3000/
