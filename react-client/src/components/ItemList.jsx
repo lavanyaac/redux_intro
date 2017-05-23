@@ -4,7 +4,7 @@ import { itemsFetchData } from '../actions/items';
 class ItemList extends React.Component {
   componentDidMount() {
     const { fetchData } = this.props;
-    fetchData('http://5826ed963900d612000138bd.mockapi.io/items');
+    fetchData('https://5826ed963900d612000138bd.mockapi.io/items');
   }
 
   render() {
